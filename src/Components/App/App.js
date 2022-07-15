@@ -1,4 +1,3 @@
-import logo from "./background_photo_desktop.jpg";
 import "./App.css";
 
 function App() {
